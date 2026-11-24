@@ -101,4 +101,4 @@ datacenter.addServer(s2)
 datacenter.addServer(s3)
 
 print("------2. Výpis serverovny------")
-print(f"Srvery v {datacenter.name}:")
+print(f"Servery v {datacenter.name}:")
